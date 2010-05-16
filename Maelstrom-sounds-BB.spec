@@ -8,6 +8,7 @@ Group:		X11/Applications/Games
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Beavis_Butthead_Sounds.zip
 # Source0-md5:	459890fdb14322cf1b1260e0d232a2e0
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
+BuildRequires:	unzip
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
 Obsoletes:	Maelstrom-sounds-AoD
